@@ -1,0 +1,10 @@
+node_modules
+
+yarn.*
+
+coverage
+
+reports
+
+# stryker temp files
+.stryker-tmp
